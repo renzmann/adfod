@@ -9,8 +9,8 @@ discover the treasure. To play the game, all you need is python >= 3.6.
 
 ## How to play
 
-If you've made it this far into the project description, it's likely you are
-already familiar with terminals, command prompts, and how to run python from
+We assume you are already familiar with terminals, command prompts, and how to 
+run python from
 them. Before playing adfod, make sure you have python >= 3.6 installed, and the
 `python` or `python3` commands are available to you from your prompt. I have
 personally only tested python versions 3.6, 3.7, and 3.8, although it may work
